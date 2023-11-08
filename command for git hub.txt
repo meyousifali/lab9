@@ -1,0 +1,8 @@
+git config --global user.email "yousifali.bscsfkhp@iba-suk.edu.pk"
+git config --global user.name "meyousifali"
+git add filename.fileextentation 
+git status
+git commit -m "message"
+git log
+git log --all
+
